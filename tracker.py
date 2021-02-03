@@ -95,6 +95,3 @@ if __name__ == "__main__":
     frame = MyApp(None)
     frame.Show()
     app.MainLoop()
-
-
-# if __name__ == "__main__":
